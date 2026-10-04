@@ -1,1 +1,2 @@
-Current Environment: DEV
+Current Environment: PROD
+Current Environment: STAGING
